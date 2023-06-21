@@ -12,20 +12,8 @@
         "logo": "https://raw.githubusercontent.com/RennanAtes/Portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/RennanAtes/Portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/RennanAtes/Portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/RennanAtes/Portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/RennanAtes/Portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "Postgresql",
@@ -45,6 +33,11 @@
     "Inglês (intermediário)"
   ],
   "portfolio": [
+    {
+      "name": "SmartWash - Gerenciamento de lava car",
+      "url": "https://www.smartwash.app.br/",
+      "github": false
+    },
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
       "url": "https://github.com/RennanAtes/Pokedex-JS",
